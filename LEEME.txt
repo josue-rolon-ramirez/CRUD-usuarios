@@ -1,0 +1,8 @@
+Para comenzar con este pequeño proyecto es necesario crear un usuario en el apartado de "Registrarse" una ves se llene
+todo los campos puede ingresar con los datos que usted registro, una ves registrado deberá poner y apareceran las personas que se han registrado
+
+(si se puso en nivel como 1 cuenta como administrador, de 2 a inferior se registra como usuario y solo vera 
+datos como usuario pero no podra ni borrar ni editar a usuarios como administrador, quiero mencionar que esto era practicas
+para el desarrollo de un crud simple para saber como hacer un CRUD desde cero)
+
+Muchas gracias por leerme, ¡que tengas un bonito dia! :D
